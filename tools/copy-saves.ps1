@@ -1,0 +1,1 @@
+Robocopy.exe $env:satisfactorySaveDir ./saves Lessons*.sav /MIR
